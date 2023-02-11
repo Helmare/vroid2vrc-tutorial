@@ -24,4 +24,4 @@ Outfit: 20
 This may need to be increased to hit the target polygons. It is advised to increase `Face`, `Body`, and `Outfit` more than the others. Once ready you can click on 
 `Export` and export it into a folder for the target platform.
 
-### [NEXT STEP](./blender.md)
+### [NEXT STEP](../blender/)
