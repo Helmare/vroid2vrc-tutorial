@@ -1,8 +1,13 @@
-# VRoid to VRC Tutorial
-This website will describe in detail how to get your avatar from VRoid to VRChat. This tutorial is based on the video series by [Virtual Panda](https://www.youtube.com/@VirtualPandaVR), so make sure you subscribe to his channel!
+# VRoid to VRC Documentation
+This website will describe in detail how to get your avatar from VRoid to VRChat. These docs are based on the video series by [Virtual Panda](https://www.youtube.com/@VirtualPandaVR). This is *not* a VRoidStudio tutorial and will only go over the basics for Quest.
 
-## Getting Started
-To import your avatar into VRChat, you'll need some additional resources.
+## Guides
+1. [Getting Started](./intro.md)
+2. [VRM to FBX](./blender.md)
+3. [Avatar Creation](./unity.md)
+
+## Apps and Resources
+Here is a complete list of apps and resources you'll need
 
 ### General
 - A VRoid avatar exported as a VRM
@@ -21,3 +26,6 @@ To import your avatar into VRChat, you'll need some additional resources.
 - [Poiyomi Shaders](https://github.com/poiyomi/PoiyomiToonShader)
 
 > ***PC ONLY***: The Poiyomi shaders are only needed on PC.
+
+## Guides
+This websites has guides divided by application
