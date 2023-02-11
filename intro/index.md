@@ -1,4 +1,4 @@
-# VRoid Tips and Exporting.
+# VRoid Exporting
 To get started, make sure you have a VRoid character created and ready for export.
 
 > **QUEST ONLY:** Make sure your VRoid avatar has the following changes:

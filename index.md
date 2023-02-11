@@ -2,9 +2,9 @@
 This website will describe in detail how to get your avatar from VRoid to VRChat. These docs are based on the video series by [Virtual Panda](https://www.youtube.com/@VirtualPandaVR). This is *not* a VRoidStudio tutorial and will only go over the basics for Quest.
 
 ## Guides
-1. [Getting Started](./intro/)
-2. [VRM to FBX](./blender/)
-3. [Avatar Creation](./unity/)
+1. [Getting Started](./intro/index.md)
+2. [VRM to FBX](./blender/index.md)
+3. [Avatar Creation](./unity/index.md)
 
 ## Apps and Resources
 Here is a complete list of apps and resources you'll need
