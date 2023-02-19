@@ -5,12 +5,18 @@ To convert your [VRM file](../intro/index.md) into an FBX file, you'll need to d
 - [Material Combiner](https://github.com/Grim-es/material-combiner-addon)
 
 ## Blender Basics
-TODO
+
 
 ### Installing Addons
 TODO
 
-## Importing and Fixing
+## Importing VRM
+To import your model, click on `File > Import > Import VRM`. Once the model is imported, expand the right menu and go into `CATS`. In `CATS` click on `Fix Model`.
+
+## Decimation and Model Clean-Up
+TODO
+
+## Bone Fixes
 TODO
 
 ## Eyes and Visemes
@@ -18,5 +24,5 @@ TODO
 
 ## Optimizing
 
-## Exporting
+## Exporting FBX
 TODO
